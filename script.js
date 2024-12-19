@@ -109,3 +109,89 @@
 // }
 
 // document.getElementById("demo2").innerHTML = typeof carname;
+
+
+
+// let day = 2; 
+
+// switch(day) {
+//     case 1:
+//         document.write("<input placeholder='enter your name'/>");
+//         break;
+//     case 2:
+//         document.write("<p style='color:red;'>Tuesday</p>");
+//         break;
+//     case 3:
+//         document.write("Wednesday");
+//         break;
+//     case 4:
+//         document.write("Thursday");
+//         break;
+//     case 5:
+//         document.write("Friday");
+//         break;
+//     case 6:
+//         document.write("Saturday");
+//         break;
+//     case 7:
+//         document.write("Sunday");
+//         break;
+//     default:
+//         document.write("Invalid day number");
+// }
+
+
+// var count ;
+
+// for(count = 0 ; count < 10 ; count++){
+//     document.write("loop is at : ",count);
+//     document.write("<br/>")
+// }
+
+
+// var array = ['a','b','c','d'];
+
+// array.forEach(function(event){
+//     document.write("hello <br/>");
+//     document.write("length of array",array.length,"<br/>");  
+
+// })  
+
+// var flag = 0 ;
+// function myfunction(flag){
+//     if(flag==0){
+//         document.body.style.backgroundColor = "black";
+//         flag = 1;
+//     }
+//     else{
+//         document.body.style.backgroundColor = "white";
+//         flag = 0;
+        
+
+//     }
+// }
+
+
+// var flag = 0;
+
+// function myFunction() {
+//     if (flag === 0) {
+//         document.body.style.backgroundColor = "black";
+//         flag = 1; // Switch flag to 1
+//     } else {
+//         document.body.style.backgroundColor = "white"; // Change to a different color or reset
+//         flag = 0; // Switch flag back to 0
+//     }
+// }
+
+// function sayhello(data , data2){
+//    console.log(data+data2);
+//    document.write(data+data2);
+// }
+
+var a = 6 , b = 3;
+
+console.log(a = 10 && b > 1);
+console.log(a == 6 || b == 5);
+console.log(!(a ==10));
+
