@@ -189,9 +189,45 @@
 //    document.write(data+data2);
 // }
 
-var a = 6 , b = 3;
+// var a = 6 , b = 3;
 
-console.log(a = 10 && b > 1);
-console.log(a == 6 || b == 5);
-console.log(!(a ==10));
+// console.log(a = 10 && b > 1);
+// console.log(a == 6 || b == 5);
+// console.log(!(a ==10));
+
+
+// var mycollection = [
+//     1,"h",true , {1:2},
+
+
+// function (name){
+//     console.log(1);
+// },
+// 'h','b'
+// ]
+
+// console.log(mycollection)
+
+// function info(a,b,c){
+//     if(arguments.length === 3){
+//         console.log(a)
+//         console.log(b)
+//         console.log(c)
+//     }
+// }
+
+// info();
+// info('jitendra','abhi','leo')
+
+// var x = confirm('wanna continue')
+// if(x == true){
+//     alert('hello')
+// }
+// else{
+//     alert('simon')
+// }
+
+// var x = prompt('wanna continue  :')
+// alert("your promt : "+  x);
+// document.write("your promt : "+  x);
 
