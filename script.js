@@ -231,3 +231,16 @@
 // alert("your promt : "+  x);
 // document.write("your promt : "+  x);
 
+
+// console.log("5"+NULL)
+// console.log(5+"NULL")
+// console.log("5"+"NULL")
+// console.log("5"-2)
+// console.log("5"*"2")
+
+const myvar = {name : "john"}
+//const  myvar = {1,2,3,4}
+//const  myvar = new Date()
+
+document.getElementById("demo").innerHTML = myvar
+

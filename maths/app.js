@@ -45,15 +45,17 @@
 // console.log(Number(""))
 // console.log(Number(" "))
 
-let y = "jhon"
-let x = +y;
+// let y = "jhon"
+// let x = +y;
 
-// x.toString()
-// (123).toString()
+// // x.toString()
+// // (123).toString()
 
-d = new Date();
-Number(d)
-console.log(Number(d))
+// d = new Date();
+// Number(d)
+// console.log(Number(d))
+
+
 
 
 
